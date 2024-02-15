@@ -1,2 +1,1 @@
-<img src="![Simulator Screenshot - iPhone 13 Pro Max - 2024-02-15 at 16 32 53](https://github.com/khosrora/digi-phone/assets/73493885/0d15b159-ef71-443d-bfc2-1b67cf5dc292){:height="200px" width="100px"}
-" width="150" height="280">
+<img src="[https://i.imgur.com/ZWnhY9T.png](https://postimg.cc/xkGtgnm9)https://postimg.cc/xkGtgnm9" width=50% height=50%>
